@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImfQPFVKP3vV6RDH7/iLvdOea/tTFFGdAGEMJK++BXHvGvUHxW+FZXYZ62GCoPAvTWD6zaFSQy/1O13HxmrLkw==",
+  "success": true,
+  "projectFilePath": "D:\\Загрузки\\курсы IT разработчик\\Знакомство с языками программирования\\Знакомство с языками программирования (лекции)\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.5\\microsoft.netcore.app.ref.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
